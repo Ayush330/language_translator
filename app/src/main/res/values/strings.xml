@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Language_Translator</string>
+    <string name="hindi">Hindi</string>
+    <string name="bengali" />
+    <string name="greek" />
+    <string name="Bengali" />
+    <string name="Greek" />
+    <string name="Spanish" />
+    <string name="French" />
+    <string name="Japenese" />
+    <string name="Catalan" />
+    <string name="your_translated_text_appears_here">Your translated text appears here.</string>
+</resources>
